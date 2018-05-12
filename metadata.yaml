@@ -1,0 +1,26 @@
+_repo: A-h-rom-galamb_40715
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kádár, Lehel
+    birthdate: 1884
+    deathdate: 1935
+    gutenberg_agent_id: '40780'
+    url: http://www.gutenberg.org/2009/agents/40780
+description: ''
+gutenberg_issued: '2012-09-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40715'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Hungarian fiction'
+title: 'A három galamb: Regény'
+url: http://www.gutenberg.org/ebooks/40715
